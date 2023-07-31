@@ -1,0 +1,23 @@
+body .paraClass{
+    background-color: rgb(238, 91, 91);
+    color: rgb(0, 0, 0,);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+}
+
+#numberTwo{
+    color: #0000FF;
+    font-size: 36px;
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+div #cooler{
+    font-size: 24px;
+}
+
+#numberFour{
+    background-color: #228b22;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

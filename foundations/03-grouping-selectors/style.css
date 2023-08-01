@@ -1,0 +1,9 @@
+.clickMe{
+    background-color: #000000;
+    color: #FFF;
+}
+
+.noClickMe{
+    background-color: yellow;
+    color: #000000;
+}

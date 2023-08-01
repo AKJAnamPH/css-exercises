@@ -24,9 +24,10 @@ body {
 } 
 
 .button {
-  background-color: rgb(255, 255, 255);
-  color: rgb(0, 0, 0);
+  background-color: rgb(19, 179, 27);
+  color: rgb(253, 251, 251);
   font-size: 20px;
+  border: #000 2px solid;
 }
 
 .child {
@@ -39,4 +40,18 @@ div.text {
   color: rgb(0, 0, 0);
   font-size: 22px;
   font-weight: 100;
+}
+
+.small-para{
+  font-size: 18px;
+}
+
+#cancel-button{
+  background-color: #FFF;
+  color: #000;
+}
+
+body .text .text.child{
+  font-size: 18px;
+  font-weight: bold;
 }
